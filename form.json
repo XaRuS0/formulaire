@@ -1,0 +1,37 @@
+[
+{"champs":
+    {
+    "text":{
+
+        "user_nom":"Nom",
+        "user_prenom":"Prénom",
+        "user_mail":"Mail"
+    },
+    "password":{
+        "pass":"Mot de passe"
+    },
+    "select":{
+
+        "origin":{
+            "fr":"France",
+            "en":"Angleterre",
+            "it":"Italie",
+            "de":"Allemagne"
+        }
+    },
+    "datepicker":{
+        "dob":"Date de naissance"
+    },
+    "radio":{
+        "genre":{
+            "f":"Femme",
+            "h":"Homme"
+        }
+    },
+    "text_last":{
+        "comment":"Commentaire",
+        "LAST":"LAST"
+    }
+    }
+}
+]

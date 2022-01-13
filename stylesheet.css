@@ -1,0 +1,61 @@
+html, body{
+    margin:10px;
+    padding:0px;
+    height:100%;
+    font-family: Roboto;
+}
+main{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    height:80%;
+}
+#tableau{
+    display: flex;
+    align-items: flex-start;
+    justify-content: left;
+    flex:2;
+    table-layout: auto;
+    width:100%;
+    flex-wrap: nowrap;
+}
+#separator{
+    display: flex;
+    flex-direction: column;
+    width:2%;
+}
+thead{
+    font-weight: bold;
+
+}
+fieldset{
+    display: flex;
+    flex-wrap: wrap ;
+    border-radius: 10px;
+    border: solid 1px;
+    flex:1;
+    min-width:auto;
+}
+#tab_mail{
+    width:150px;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    width: 100%;
+    justify-content: space-between;
+}
+input[type=text], input[type=password]{
+    width:100%;
+}
+th,td{
+    padding:10px;
+    padding-bottom: 0px;
+}
+#comment, #origin, #dob{
+    width: 100%;
+}
+#listing_wrapper{
+    width: auto;
+}

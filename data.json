@@ -1,0 +1,22 @@
+[
+    {
+        "user_nom": "Test",
+        "user_prenom": "123",
+        "user_mail": "qsd@qsd.com",
+        "user_pwd": "qsd",
+        "origin": "Fran\u00e7ais",
+        "datepicker": "01\/10\/2022",
+        "genre": "Homme",
+        "comment": "Commentaire"
+    },
+    {
+        "user_nom": "Test",
+        "user_prenom": "test",
+        "user_mail": "test@test.com",
+        "user_pwd": "$2y$10$WZte4hr.wi3SgTbLpcGvO.yqVGfiVQKMUNbF2uaxppuYq\/jEmT25u",
+        "origin": "Fran\u00e7ais",
+        "datepicker": "01\/02\/2022",
+        "genre": "Homme",
+        "comment": "Commentaire"
+    }
+]
